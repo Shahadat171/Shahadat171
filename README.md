@@ -1,4 +1,5 @@
-![I am a Frontend | Mernstack Developer](https://pbs.twimg.com/profile_images/1706638421484355584/r0BuOYuj_400x400.jpg)
+(https://pbs.twimg.com/profile_images/1706638421484355584/r0BuOYuj_400x400.jpg)
+![I am a Frontend | Mernstack Developer]
 
 I am an enthusiastic and proficient frontend developer having in depth experience on creating production level and interactive web applications.  I have explored and practised many well known web technologies like react.js, node.js and redux so on.
 
